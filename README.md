@@ -10,6 +10,10 @@ This project lets you build a simple yet effective to-do list application to man
     * **Head Removal:**  Remove the first task on the list.
     * **Tail Removal:**  Remove the last task on the list.
 * **Simple Interface:**  The command-line interface keeps things straightforward and easy to use.
+  
+**New Features**
+* **Clear List:** Empty all tasks from the list
+* **Errors** added few errors when unintended operations are performed
 
 **Getting Started:**
 
