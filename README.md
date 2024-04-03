@@ -13,7 +13,7 @@ This project lets you build a simple yet effective to-do list application to man
   
 **New Features**
 * **Clear List:** Empty all tasks from the list
-* **Errors** added few errors when unintended operations are performed
+* **Errors:** added few errors when unintended operations are performed
 
 **Getting Started:**
 
